@@ -208,3 +208,4 @@ LX_Testcode/test_wavesharestepperhat.py
 LX_Testcode/Test_Stepper_head.py
 LX_Testcode/L4_DCmotor_rpm_test.py
 LX_Testcode/L4_Stepmotor_RPM_Test.py
+LX_Testcode/DRV8825_Test.py

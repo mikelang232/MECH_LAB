@@ -26,6 +26,7 @@ k = 0.001  # *** CHANGE ME *** controller amplification factor k [s/mm]
 VOLTAGE = 12  # *** CHANGE ME *** voltage for DC motor [V] between 0 und 12 V (Voltage from power supply is always 12 V)
 CSV_FILENAME = "Wegdiagramm_Zeit.csv"  # *** CHANGE ME *** file to log data (timestamp and distance)
 CSV_DELIMITER = ";"  # *** CHANGE ME *** Character to separate data fields / cells in the CSV file
+N_MEASUREMENTS = 10  # *** CHANGE ME *** number of distance measurements [] over which to average
 
 IR_SENSOR = 2  # Connect the Grove 80cm Infrared Proximity Sensor to analog port A2
 
